@@ -1,6 +1,6 @@
 # T20 Cricket Player Performance Analysis
 
-### [Live Interactive Dashboard Link]([Your-Power-BI-Publish-to-Web-Link-Here](https://github.com/Barrie20/ricket-Player-Performance-Analysis-PowerBI/blob/main/Data/17.%20ESPN.pdf))
+### [Live Interactive Dashboard Link] https://github.com/Barrie20/ricket-Player-Performance-Analysis-PowerBI/blob/main/Data/17.%20ESPN.pdf
 
 ---
 
