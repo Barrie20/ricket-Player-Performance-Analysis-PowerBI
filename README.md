@@ -49,12 +49,12 @@ Here is a glimpse of the three main pages of the dashboard.
 
 #### Batting Analysis
 *This dashboard showcases key batting metrics like total runs, strike rate, averages, and performance against different teams.*
-![Batting Dashboard](10.%20Batting.png)
+![Batting Dashboard] https://github.com/Barrie20/ricket-Player-Performance-Analysis-PowerBI/blob/main/Data/10.%20Batting.png
 
 #### Bowling Analysis
 *This view focuses on bowler effectiveness, visualizing wickets taken, economy rates, and performance in different phases of the game.*
-![Bowling Dashboard](10.%20Bowling.png)
+![Bowling Dashboard] https://github.com/Barrie20/ricket-Player-Performance-Analysis-PowerBI/blob/main/Data/10.%20Bowling.png
 
 #### Fielding Analysis
 *This section analyzes fielding contributions, including catches, stumpings, and run-outs to identify the most impactful players on the field.*
-![Fielding Dashboard](10.%20Fielding.png)
+![Fielding Dashboard] https://github.com/Barrie20/ricket-Player-Performance-Analysis-PowerBI/blob/main/Data/10.%20Fielding.png
