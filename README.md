@@ -4,7 +4,6 @@
 
 ---
 
-##  प्रोजेक्ट अवलोकन
 
 This project presents a comprehensive analysis of T20 cricket players' performance across three key areas: **batting, bowling, and fielding**. The primary objective was to leverage data visualization to identify top performers and uncover insights from complex match data. I developed an interactive dashboard using Power BI to provide a clear and dynamic view of player statistics.
 
